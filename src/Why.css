@@ -1,0 +1,36 @@
+.us {
+	position: absolute;
+	width: 300px;
+	height: 49px;
+	top: 1448px;
+	left: 596px;
+	color: #353434;
+	text-align: center;
+	font-family: 'Oswald', sans-serif;
+	font-size: 40px;
+	font-weight: 400;
+}
+.lor3 {
+	position: absolute;
+	left: 448px;
+	top: 1517px;
+	color: #a8a8a8;
+	text-align: center;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 24px; /* 171.429% */
+	letter-spacing: 0.28px;
+	width: 543px;
+	height: 48px;
+}
+.box2 {
+	position: absolute;
+	left: 165px;
+	top: 1625px;
+	width: 350px;
+	height: 254px;
+	border-radius: 20px;
+	background: #fff;
+	box-shadow: -1px 1px 20px 0px rgba(128, 128, 128, 0.1);
+}
