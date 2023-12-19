@@ -1,5 +1,7 @@
 import React from 'react';
 import './Start.css';
+// eslint-disable-next-line @typescript-eslint/no-unused-vars
+import chris from './images/christina-wocintechchat-com-YVT21p6pO_g-unsplash 1.png';
 
 function Start() {
 	return (
@@ -847,7 +849,47 @@ function Start() {
 				</svg>
 			</div>
 			<h4 className="how">How it works</h4>
-			<h2 className='start'>Start find a job you love with us easily</h2>
+			<h2 className="start">Start find a job you love with us easily</h2>
+			<img className="pic4" src={chris} alt="" />
+			<div className="btn2">
+				<svg
+					width="77"
+					height="77"
+					viewBox="0 0 77 77"
+					fill="none"
+					xmlns="http://www.w3.org/2000/svg"
+				>
+					<circle cx="38.5" cy="38.5" r="38.5" fill="#414141" />
+					<path
+						d="M38.5 0C17.2704 0 0 17.2713 0 38.5C0 59.7296 17.2706 77 38.5 77C59.7294 77 77 59.7294 77 38.5C77 17.2706 59.7294 0 38.5 0ZM30.7252 55.4897V21.5103L54.7143 38.4998L30.7252 55.4897Z"
+						fill="white"
+					/>
+				</svg>
+			</div>
+				<div className="rec1">
+					<h4 className='prof'>Complete Profile</h4>
+					<p className='box1'>1</p>
+					<svg className='pic5' width="17" height="10" viewBox="0 0 17 10" fill="none" xmlns="http://www.w3.org/2000/svg">
+				<path d="M0.243416 1.66634L7.76094 9.68995C8.15766 10.1033 8.85646 10.1033 9.23422 9.68995L16.6951 1.72271C17.0728 1.30931 17.1295 0.651574 16.6951 0.257037C16.2795 -0.118743 15.6562 -0.0623876 15.2785 0.351017L8.7809 7.28478C8.62978 7.43512 8.40317 7.43512 8.25203 7.28478L1.73559 0.332226C1.39566 -0.0435539 0.791174 -0.118784 0.375631 0.200627C-0.0587635 0.538792 -0.134386 1.27163 0.243481 1.6663L0.243416 1.66634Z" fill="#4238AF"/>
+				</svg>
+				</div>
+
+				<div className="rec2">
+				<h4 className='prof'>Search Vacancies</h4>
+					<p className='box1'>2</p>
+					<svg className='pic5' width="17" height="10" viewBox="0 0 17 10" fill="none" xmlns="http://www.w3.org/2000/svg">
+				<path d="M16.7566 8.33366L9.23906 0.310045C8.84234 -0.10335 8.14354 -0.10335 7.76578 0.310045L0.304918 8.27729C-0.0728138 8.69069 -0.129479 9.34843 0.304918 9.74296C0.720459 10.1187 1.34381 10.0624 1.72154 9.64898L8.2191 2.71522C8.37022 2.56488 8.59683 2.56488 8.74797 2.71522L15.2644 9.66777C15.6043 10.0436 16.2088 10.1188 16.6244 9.79937C17.0588 9.46121 17.1344 8.72837 16.7565 8.3337L16.7566 8.33366Z" fill="#4238AF"/>
+				</svg>
+				<h6 className='lor2'>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation.</h6>
+				</div>
+
+				<div className="rec3">
+				<h4 className='prof'>Apply Job</h4>
+					<p className='box1'>2</p>
+					<svg className='pic5' width="17" height="10" viewBox="0 0 17 10" fill="none" xmlns="http://www.w3.org/2000/svg">
+				<path d="M0.243416 1.66634L7.76094 9.68995C8.15766 10.1033 8.85646 10.1033 9.23422 9.68995L16.6951 1.72271C17.0728 1.30931 17.1295 0.651574 16.6951 0.257037C16.2795 -0.118743 15.6562 -0.0623876 15.2785 0.351017L8.7809 7.28478C8.62978 7.43512 8.40317 7.43512 8.25203 7.28478L1.73559 0.332226C1.39566 -0.0435539 0.791174 -0.118784 0.375631 0.200627C-0.0587635 0.538792 -0.134386 1.27163 0.243481 1.6663L0.243416 1.66634Z" fill="#4238AF"/>
+				</svg>
+				</div>
 		</div>
 	);
 }
