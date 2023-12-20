@@ -34,3 +34,59 @@
 	background: #fff;
 	box-shadow: -1px 1px 20px 0px rgba(128, 128, 128, 0.1);
 }
+.compass {
+	position: absolute;
+	top: 40px;
+	left: 37px;
+	width: 60px;
+	height: 60px;
+	border-radius: 7px;
+	background: #6156dc;
+}
+.group1 {
+	position: absolute;
+	top: 13px;
+	left: 13px;
+}
+.trust {
+	position: absolute;
+	top: 122px;
+	left: 32px;
+	color: #323232;
+	font-family: ' Open Sans', sans-serif;
+	font-size: 20px;
+	font-weight: 600;
+	line-height: 30px; /* 150% */
+	letter-spacing: 0.4px;
+}
+.lor4 {
+	position: absolute;
+	top: 154px;
+	left: 37px;
+	color: #8f8f8f;
+	font-family: ' Open Sans', sans-serif;
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 22px; /* 157.143% */
+	letter-spacing: 0.28px;
+}
+.box3 {
+	position: absolute;
+	left: 545px;
+	top: 1610px;
+	width: 350px;
+	height: 254px;
+	border-radius: 20px;
+	background: #f9faff;
+	box-shadow: 0px 12px 30px 0px rgba(71, 71, 71, 0.15);
+}
+.box4{
+	position: absolute;
+	left: 925px;
+	top: 1625px;
+	width: 350px;
+	height: 254px;
+	border-radius: 20px;
+	background: #fff;
+	box-shadow: -1px 1px 20px 0px rgba(128, 128, 128, 0.1);
+}

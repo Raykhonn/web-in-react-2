@@ -5,6 +5,7 @@ import Start from './Start';
 import reportWebVitals from './reportWebVitals';
 import Header from './Header';
 import Why from './Why';
+import Jobs from './Jobs';
 
 const root = ReactDOM.createRoot(
   document.getElementById('root') as HTMLElement
@@ -14,6 +15,7 @@ root.render(
     <Header />
     <Start />
     <Why />
+    <Jobs />
   </>
 );
 

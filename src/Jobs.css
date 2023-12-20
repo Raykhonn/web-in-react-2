@@ -1,0 +1,57 @@
+.job {
+	position: absolute;
+	top: 1998px;
+	left: 616px;
+	color: #353434;
+	text-align: center;
+	font-family: 'Oswald', sans-serif;
+	font-size: 40px;
+	font-weight: 400;
+	line-height: 50px; /* 125% */
+	letter-spacing: 2px;
+}
+.lor5 {
+	position: absolute;
+	top: 2067px;
+	left: 457px;
+	color: #a8a8a8;
+	text-align: center;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 24px; /* 171.429% */
+	letter-spacing: 0.28px;
+	width: 543px;
+	height: 48px;
+}
+.btn3 {
+	position: absolute;
+	top: 2411px;
+	left: 69px;
+}
+.btn3:hover {
+	stroke: white;
+}
+.btn4 {
+	position: absolute;
+	top: 2411px;
+	left: 149px;
+}
+.btn4:hover {
+	stroke: #ef6010;
+}
+.box5 {
+	position: absolute;
+	top: 2160px;
+	left: 260px;
+	width: 380px;
+	height: 465px;
+	border-radius: 20px;
+	background: #f9faff;
+	box-shadow: 0px 12px 30px 0px rgba(71, 71, 71, 0.15);
+}
+.data{
+	position: absolute;
+	top:171px;
+	left: 85px;
+}
